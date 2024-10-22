@@ -1,0 +1,15 @@
+{
+  "name": "login",
+  "user_flow": [
+    "onboarding"
+  ],
+  "screens": [
+    "signup"
+  ],
+  "ui_elements": [
+    "button"
+  ],
+  "platform": "android",
+  "image": "1729610357215.jpg",
+  "date": "2024-10-22T15:20:02.055Z"
+}
