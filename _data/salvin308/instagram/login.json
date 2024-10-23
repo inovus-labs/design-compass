@@ -1,0 +1,21 @@
+{
+  "name": "Login",
+  "user_flow": [
+    "logging-in"
+  ],
+  "screens": [
+    "login",
+    "terms-conditons",
+    "privacy-policy",
+    "help-support"
+  ],
+  "ui_elements": [
+    "button",
+    "text-field",
+    "logo",
+    "icon"
+  ],
+  "platform": "android",
+  "image": "1729696548060.jpg",
+  "date": "2024-10-23T15:18:31.458Z"
+}
