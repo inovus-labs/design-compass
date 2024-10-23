@@ -1,0 +1,21 @@
+{
+  "name": "profile",
+  "user_flow": [
+    "editing-profile"
+  ],
+  "screens": [
+    "my-account-profile",
+    "progress"
+  ],
+  "ui_elements": [
+    "card",
+    "photo",
+    "icon",
+    "button",
+    "switch-toggle",
+    "list"
+  ],
+  "platform": "android",
+  "image": "1729693090820.jpg",
+  "date": "2024-10-23T14:18:17.361Z"
+}

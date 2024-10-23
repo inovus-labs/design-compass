@@ -1,5 +1,5 @@
 {
-  "name": "Learnbee",
+  "name": "login",
   "user_flow": [
     "logging-in"
   ],
@@ -13,6 +13,6 @@
     "icon"
   ],
   "platform": "android",
-  "image": "1729691599583.jpg",
-  "date": "2024-10-23T13:53:25.755Z"
+  "image": "1729692158475.jpg",
+  "date": "2024-10-23T14:02:43.950Z"
 }
