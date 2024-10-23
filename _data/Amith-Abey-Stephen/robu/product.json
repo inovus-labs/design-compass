@@ -1,0 +1,19 @@
+{
+  "name": "product page",
+  "user_flow": [
+    "adding-to-cart-bag",
+    "purchasing-ordering"
+  ],
+  "screens": [
+    "product-detail"
+  ],
+  "ui_elements": [
+    "button",
+    "icon",
+    "logo",
+    "carousel"
+  ],
+  "platform": "web",
+  "image": "1729694837786.jpg",
+  "date": "2024-10-23T14:50:39.426Z"
+}
