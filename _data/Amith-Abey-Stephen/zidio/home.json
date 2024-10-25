@@ -1,0 +1,16 @@
+{
+  "name": "home",
+  "user_flow": [
+    "onboarding"
+  ],
+  "screens": [
+    "home"
+  ],
+  "ui_elements": [
+    "button",
+    "top-bar-navigation-bar"
+  ],
+  "platform": "web",
+  "image": "1729853842211.jpg",
+  "date": "2024-10-25T11:15:29.776Z"
+}
