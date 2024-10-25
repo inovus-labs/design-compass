@@ -1,0 +1,22 @@
+{
+  "name": "Login",
+  "user_flow": [
+    "creating-account",
+    "logging-in"
+  ],
+  "screens": [
+    "signup",
+    "login",
+    "terms-conditons",
+    "privacy-policy"
+  ],
+  "ui_elements": [
+    "button",
+    "text-field",
+    "logo",
+    "hero-image"
+  ],
+  "platform": "web",
+  "image": "1729870972277.jpg",
+  "date": "2024-10-25T15:52:00.245Z"
+}
