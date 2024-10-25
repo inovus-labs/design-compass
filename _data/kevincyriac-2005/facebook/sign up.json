@@ -1,5 +1,5 @@
 {
-  "name": "sign in",
+  "name": "sign up",
   "user_flow": [
     "creating-account"
   ],
@@ -10,10 +10,10 @@
   "ui_elements": [
     "button",
     "radio-button",
-    "date-picker",
-    "text-field"
+    "text-field",
+    "date-picker"
   ],
   "platform": "web",
-  "image": "1729875502576.jpg",
-  "date": "2024-10-25T17:01:47.248Z"
+  "image": "1729876121202.jpg",
+  "date": "2024-10-25T17:10:37.106Z"
 }
