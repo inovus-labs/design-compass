@@ -1,0 +1,15 @@
+{
+  "name": "home page ",
+  "user_flow": [
+    "purchasing-ordering"
+  ],
+  "screens": [
+    "home"
+  ],
+  "ui_elements": [
+    "carousel"
+  ],
+  "platform": "web",
+  "image": "1729854100415.jpg",
+  "date": "2024-10-25T11:04:01.300Z"
+}
