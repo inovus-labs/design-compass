@@ -1,0 +1,16 @@
+{
+  "name": "login",
+  "user_flow": [
+    "logging-in"
+  ],
+  "screens": [
+    "login"
+  ],
+  "ui_elements": [
+    "button",
+    "color-picker"
+  ],
+  "platform": "web",
+  "image": "1729853216573.jpg",
+  "date": "2024-10-25T10:51:27.820Z"
+}
