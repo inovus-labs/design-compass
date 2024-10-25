@@ -7,10 +7,7 @@
   ],
   "screens": [
     "signup",
-    "login",
-    "help-support",
-    "privacy-policy",
-    "terms-conditons"
+    "login"
   ],
   "ui_elements": [
     "button",
