@@ -1,13 +1,16 @@
 {
-  "name": "Login",
+  "name": "Login_Page",
   "user_flow": [
-    "logging-in"
+    "creating-account",
+    "logging-in",
+    "resetting-password"
   ],
   "screens": [
+    "signup",
     "login",
-    "terms-conditons",
+    "help-support",
     "privacy-policy",
-    "help-support"
+    "terms-conditons"
   ],
   "ui_elements": [
     "button",
@@ -16,6 +19,6 @@
     "icon"
   ],
   "platform": "android",
-  "image": "1729696548060.jpg",
-  "date": "2024-10-23T15:18:31.458Z"
+  "image": "1729865428439.jpg",
+  "date": "2024-10-25T14:15:00.187Z"
 }
