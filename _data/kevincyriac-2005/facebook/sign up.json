@@ -1,0 +1,19 @@
+{
+  "name": "sign in",
+  "user_flow": [
+    "creating-account"
+  ],
+  "screens": [
+    "signup",
+    "account-setup"
+  ],
+  "ui_elements": [
+    "button",
+    "radio-button",
+    "date-picker",
+    "text-field"
+  ],
+  "platform": "web",
+  "image": "1729875502576.jpg",
+  "date": "2024-10-25T17:01:47.248Z"
+}
