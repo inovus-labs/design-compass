@@ -1,0 +1,17 @@
+{
+  "name": "log in page",
+  "user_flow": [
+    "logging-in"
+  ],
+  "screens": [
+    "login"
+  ],
+  "ui_elements": [
+    "text-field",
+    "button",
+    "icon"
+  ],
+  "platform": "web",
+  "image": "1729916762392.jpg",
+  "date": "2024-10-26T04:28:50.966Z"
+}
