@@ -1,0 +1,36 @@
+{
+  "name": "cart",
+  "user_flow": [
+    "purchasing-ordering",
+    "adding-to-cart-bag",
+    "listing",
+    "editing-updating"
+  ],
+  "screens": [
+    "shop-storefront",
+    "checkout",
+    "cart-bag",
+    "subscription-paywall",
+    "pricing",
+    "wallet-balance",
+    "item-list",
+    "product-detail",
+    "edit",
+    "add-create",
+    "delete",
+    "select",
+    "cancel",
+    "save"
+  ],
+  "ui_elements": [
+    "button",
+    "radio-button",
+    "search-bar",
+    "sidebar-navigation-rail",
+    "list",
+    "logo"
+  ],
+  "platform": "web",
+  "image": "1730046112516.jpg",
+  "date": "2024-10-27T16:46:23.066Z"
+}
