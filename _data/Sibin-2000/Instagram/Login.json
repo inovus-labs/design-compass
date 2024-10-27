@@ -5,11 +5,8 @@
     "logging-in"
   ],
   "screens": [
-    "signup",
-    "login",
-    "terms-conditons",
-    "privacy-policy"
-  ],
+    "login"
+     ],
   "ui_elements": [
     "button",
     "text-field",
