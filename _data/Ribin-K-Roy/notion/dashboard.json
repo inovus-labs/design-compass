@@ -1,0 +1,25 @@
+{
+  "name": "dashboard",
+  "user_flow": [
+    "onboarding",
+    "listing",
+    "scheduling",
+    "adding-creating",  
+  ],
+  "screens": [
+    "welcome-get-started",
+    "home",
+    "dashboard"
+  ],
+  "ui_elements": [
+    "slider",
+    "tile",
+    "sidebar-navigation-rail",
+    "card",
+    "icon",
+    "thumbnail"
+  ],
+  "platform": "web",
+  "image": "1730022935588.jpg",
+  "date": "2024-10-27T10:00:14.777Z"
+}

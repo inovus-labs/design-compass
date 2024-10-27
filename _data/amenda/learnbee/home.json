@@ -1,0 +1,20 @@
+{
+  "name": "Home",
+  "user_flow": [
+    "scheduling",
+    "watching-video"
+  ],
+  "screens": [
+    "home",
+    "item-list"
+  ],
+  "ui_elements": [
+    "card",
+    "list",
+    "switch-toggle",
+    "icon"
+  ],
+  "platform": "android",
+  "image": "1730029501607.jpg",
+  "date": "2024-10-27T11:47:25.141Z"
+}

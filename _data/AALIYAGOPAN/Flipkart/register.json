@@ -1,0 +1,21 @@
+{
+  "name": "register",
+  "user_flow": [
+    "creating-account",
+    "requesting",
+    "importing-exporting",
+    "marking"
+  ],
+  "screens": [
+    "account-setup",
+    "login"
+  ],
+  "ui_elements": [
+    "button",
+    "sidebar-navigation-rail",
+    "floating-action-button"
+  ],
+  "platform": "web",
+  "image": "1729855983513.jpg",
+  "date": "2024-10-25T11:43:03.987Z"
+}

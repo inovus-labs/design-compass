@@ -1,0 +1,22 @@
+{
+  "name": "landing page",
+  "user_flow": [
+    "onboarding"
+  ],
+  "screens": [
+    "launch-screen"
+  ],
+  "ui_elements": [
+    "button",
+    "carousel",
+    "dropdown-menu",
+    "logo",
+    "hero-image",
+    "animation-video",
+    "illustartion",
+    "photo"
+  ],
+  "platform": "web",
+  "image": "1730020504184.jpg",
+  "date": "2024-10-27T09:18:13.520Z"
+}
