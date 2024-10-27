@@ -1,0 +1,23 @@
+{
+  "name": "Home",
+  "user_flow": [
+    "onboarding",
+    "uploading-downloading"
+  ],
+  "screens": [
+    "home",
+    "stories",
+    "upload-download",
+    "like-upvote"
+  ],
+  "ui_elements": [
+    "button",
+    "logo",
+    "photo",
+    "icon",
+    "top-bar-navigation-bar"
+  ],
+  "platform": "android",
+  "image": "1730023176245.jpg",
+  "date": "2024-10-27T10:00:33.246Z"
+}
