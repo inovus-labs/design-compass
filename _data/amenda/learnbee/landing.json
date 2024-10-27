@@ -1,0 +1,15 @@
+{
+  "name": "Landing page",
+  "user_flow": [
+    "onboarding"
+  ],
+  "screens": [
+    "launch-screen"
+  ],
+  "ui_elements": [
+    "button"
+  ],
+  "platform": "android",
+  "image": "1730028808901.jpg",
+  "date": "2024-10-27T11:33:34.791Z"
+}
