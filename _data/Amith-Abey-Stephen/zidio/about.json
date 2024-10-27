@@ -1,0 +1,20 @@
+{
+  "name": "about",
+  "user_flow": [
+    "onboarding"
+  ],
+  "screens": [
+    "about"
+  ],
+  "ui_elements": [
+    "button",
+    "top-bar-navigation-bar",
+    "card",
+    "icon",
+    "logo",
+    "thumbnail"
+  ],
+  "platform": "web",
+  "image": "1730021944329.jpg",
+  "date": "2024-10-27T10:22:22.428Z"
+}
