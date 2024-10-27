@@ -1,0 +1,22 @@
+{
+  "name": "HOME",
+  "user_flow": [
+    "searching-finding"
+  ],
+  "screens": [
+    "dark-mode",
+    "home"
+  ],
+  "ui_elements": [
+    "button",
+    "search-bar",
+    "avatar",
+    "logo",
+    "icon",
+    "carousel",
+    "top-bar-navigation-bar"
+  ],
+  "platform": "web",
+  "image": "1730032146004.jpg",
+  "date": "2024-10-27T12:50:15.350Z"
+}
