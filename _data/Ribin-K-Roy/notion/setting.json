@@ -1,0 +1,20 @@
+{
+  "name": "setting",
+  "user_flow": [
+    "editing-profile",
+    "editing-updating"
+  ],
+  "screens": [
+    "settings-preferences"
+  ],
+  "ui_elements": [
+    "switch-toggle",
+    "slider",
+    "sidebar-navigation-rail",
+    "icon",
+    "dropdown-menu"
+  ],
+  "platform": "web",
+  "image": "1730024832707.jpg",
+  "date": "2024-10-27T10:32:03.219Z"
+}
