@@ -1,0 +1,20 @@
+{
+  "name": "profile",
+  "user_flow": [
+    "creating-account",
+    "editing-profile",
+    "editing-updating"
+  ],
+  "screens": [
+    "account-setup",
+    "my-account-profile"
+  ],
+  "ui_elements": [
+    "button",
+    "top-bar-navigation-bar",
+    "dropdown-menu"
+  ],
+  "platform": "web",
+  "image": "1730019872441.jpg",
+  "date": "2024-10-27T09:08:22.060Z"
+}
