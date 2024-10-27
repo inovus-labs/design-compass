@@ -2,8 +2,7 @@
   "name": "Login_Page",
   "user_flow": [
     "creating-account",
-    "logging-in",
-    "resetting-password"
+    "logging-in"
   ],
   "screens": [
     "signup",
