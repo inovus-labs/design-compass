@@ -1,0 +1,22 @@
+{
+  "name": "Home",
+  "user_flow": [
+    "listening-to-audio"
+  ],
+  "screens": [
+    "home",
+    "song-podcast-detail",
+    "playlists"
+  ],
+  "ui_elements": [
+    "button",
+    "search-bar",
+    "text-field",
+    "tile",
+    "icon",
+    "thumbnail"
+  ],
+  "platform": "android",
+  "image": "1729874381950.jpg",
+  "date": "2024-10-25T16:43:18.644Z"
+}
