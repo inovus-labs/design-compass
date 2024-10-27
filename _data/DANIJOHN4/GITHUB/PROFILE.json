@@ -1,0 +1,22 @@
+{
+  "name": "PROFILE",
+  "user_flow": [
+    "editing-profile"
+  ],
+  "screens": [
+    "my-account-profile"
+  ],
+  "ui_elements": [
+    "button",
+    "top-bar-navigation-bar",
+    "search-bar",
+    "divider-separator",
+    "avatar",
+    "icon",
+    "logo",
+    "photo"
+  ],
+  "platform": "web",
+  "image": "1729865873257.jpg",
+  "date": "2024-10-25T14:22:11.313Z"
+}
