@@ -1,0 +1,25 @@
+{
+  "name": "signup",
+  "user_flow": [
+    "creating-account",
+    "logging-in",
+    "switching-account"
+  ],
+  "screens": [
+    "signup",
+    "welcome-get-started",
+    "account-setup",
+    "settings-preferences",
+    "my-account-profile"
+  ],
+  "ui_elements": [
+    "button",
+    "floating-action-button",
+    "top-bar-navigation-bar",
+    "logo",
+    "icon"
+  ],
+  "platform": "android",
+  "image": "1730036469828.jpg",
+  "date": "2024-10-27T13:43:49.196Z"
+}
