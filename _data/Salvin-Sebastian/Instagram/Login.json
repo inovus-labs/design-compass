@@ -1,1 +1,19 @@
-
+{
+  "name": "Login_Page",
+  "user_flow": [
+    "creating-account",
+    "logging-in"
+  ],
+  "screens": [
+    "login"
+  ],
+  "ui_elements": [
+    "button",
+    "text-field",
+    "logo",
+    "icon"
+  ],
+  "platform": "android",
+  "image": "1729865428439.jpg",
+  "date": "2024-10-25T14:15:00.187Z"
+}
