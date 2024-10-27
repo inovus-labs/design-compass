@@ -4,13 +4,7 @@
     "onboarding",
     "listing",
     "scheduling",
-    "adding-creating",
-    "searching-finding",
-    "filtering-sorting",
-    "selecting-choosing",
-    "archiving",
-    "switching-view",
-    "switching-to-dark-mode"
+    "adding-creating",  
   ],
   "screens": [
     "welcome-get-started",
@@ -18,19 +12,10 @@
     "dashboard"
   ],
   "ui_elements": [
-    "button",
-    "text-field",
-    "search-bar",
     "slider",
     "tile",
-    "page-control",
     "sidebar-navigation-rail",
     "card",
-    "table",
-    "list",
-    "image-list-gallery",
-    "toolbar",
-    "logo",
     "icon",
     "thumbnail"
   ],
