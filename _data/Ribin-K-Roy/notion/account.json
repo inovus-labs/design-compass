@@ -1,0 +1,19 @@
+{
+  "name": "account",
+  "user_flow": [
+    "editing-profile"
+  ],
+  "screens": [
+    "account-setup",
+    "my-account-profile"
+  ],
+  "ui_elements": [
+    "button",
+    "switch-toggle",
+    "text-field",
+    "slider"
+  ],
+  "platform": "web",
+  "image": "1730024254341.jpg",
+  "date": "2024-10-27T10:22:35.265Z"
+}
