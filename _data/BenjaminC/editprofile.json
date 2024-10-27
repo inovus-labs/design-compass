@@ -1,0 +1,28 @@
+{
+  "name": "editprofile",
+  "user_flow": [
+    "editing-profile",
+    "switching-account",
+    "banning-blocking",
+    "editing-updating",
+    "adding-creating",
+    "uploading-downloading",
+    "setting-up"
+  ],
+  "screens": [
+    "account-setup",
+    "my-account-profile",
+    "settings-preferences"
+  ],
+  "ui_elements": [
+    "button",
+    "text-field",
+    "top-bar-navigation-bar",
+    "image-list-gallery",
+    "avatar",
+    "photo"
+  ],
+  "platform": "android",
+  "image": "1730044083878.jpg",
+  "date": "2024-10-27T15:50:37.540Z"
+}
