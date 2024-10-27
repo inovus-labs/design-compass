@@ -1,0 +1,28 @@
+{
+  "name": "settingspage",
+  "user_flow": [
+    "editing-profile",
+    "logging-out",
+    "deleting-deactivating-account",
+    "switching-account",
+    "resetting-password",
+    "editing-updating",
+    "deleting-removing",
+    "setting-up"
+  ],
+  "screens": [
+    "account-setup",
+    "settings-preferences",
+    "edit",
+    "add-create",
+    "delete"
+  ],
+  "ui_elements": [
+    "button",
+    "floating-action-button",
+    "top-bar-navigation-bar"
+  ],
+  "platform": "android",
+  "image": "1730043659432.jpg",
+  "date": "2024-10-27T15:42:54.703Z"
+}
