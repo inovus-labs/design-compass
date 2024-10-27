@@ -1,20 +1,26 @@
 {
   "name": "profile",
   "user_flow": [
-    "creating-account",
     "editing-profile",
     "editing-updating"
   ],
   "screens": [
     "account-setup",
-    "my-account-profile"
+    "my-account-profile",
+    "edit"
   ],
   "ui_elements": [
     "button",
+    "radio-button",
     "top-bar-navigation-bar",
-    "dropdown-menu"
+    "sidebar-navigation-rail",
+    "dropdown-menu",
+    "avatar",
+    "icon",
+    "logo",
+    "search-bar"
   ],
   "platform": "web",
-  "image": "1730019872441.jpg",
-  "date": "2024-10-27T09:08:22.060Z"
+  "image": "1730020715876.jpg",
+  "date": "2024-10-27T09:23:12.939Z"
 }
