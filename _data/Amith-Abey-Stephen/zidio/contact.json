@@ -1,0 +1,19 @@
+{
+  "name": "contact",
+  "user_flow": [
+    "giving-feedback"
+  ],
+  "screens": [
+    "help-support"
+  ],
+  "ui_elements": [
+    "button",
+    "text-field",
+    "top-bar-navigation-bar",
+    "dropdown-menu",
+    "icon"
+  ],
+  "platform": "web",
+  "image": "1729863633372.jpg",
+  "date": "2024-10-25T13:45:51.057Z"
+}

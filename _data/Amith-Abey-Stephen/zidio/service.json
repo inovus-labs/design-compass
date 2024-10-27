@@ -1,0 +1,18 @@
+{
+  "name": "service",
+  "user_flow": [
+    "selecting-choosing"
+  ],
+  "screens": [
+    "about",
+    "feature-info"
+  ],
+  "ui_elements": [
+    "button",
+    "top-bar-navigation-bar",
+    "card"
+  ],
+  "platform": "web",
+  "image": "1729868094786.jpg",
+  "date": "2024-10-25T15:11:51.126Z"
+}

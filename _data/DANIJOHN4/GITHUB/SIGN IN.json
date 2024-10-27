@@ -1,0 +1,27 @@
+{
+  "name": "SIGN IN",
+  "user_flow": [
+    "creating-account",
+    "logging-in",
+    "resetting-password",
+    "registering",
+    "onboarding"
+  ],
+  "screens": [
+    "welcome-get-started",
+    "signup",
+    "verification",
+    "account-setup",
+    "login",
+    "privacy-policy",
+    "terms-conditons"
+  ],
+  "ui_elements": [
+    "button",
+    "text-field",
+    "full-screen-overlay"
+  ],
+  "platform": "web",
+  "image": "1729867068405.jpg",
+  "date": "2024-10-25T14:41:34.654Z"
+}
