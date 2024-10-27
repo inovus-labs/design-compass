@@ -1,0 +1,25 @@
+{
+  "name": "login",
+  "user_flow": [
+    "logging-in",
+    "registering",
+    "setting-up"
+  ],
+  "screens": [
+    "signup",
+    "account-setup",
+    "my-account-profile",
+    "login",
+    "add-create",
+    "save"
+  ],
+  "ui_elements": [
+    "button",
+    "text-field",
+    "icon",
+    "avatar"
+  ],
+  "platform": "android",
+  "image": "1730036093416.jpg",
+  "date": "2024-10-27T13:38:08.172Z"
+}
