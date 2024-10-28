@@ -1,0 +1,29 @@
+{
+  "name": "onboarding",
+  "user_flow": [
+    "creating-account",
+    "onboarding",
+    "logging-in"
+  ],
+  "screens": [
+    "signup",
+    "launch-screen",
+    "welcome-get-started",
+    "account-setup",
+    "verification",
+    "login",
+    "help-support",
+    "privacy-policy",
+    "terms-conditons"
+  ],
+  "ui_elements": [
+    "button",
+    "text-field",
+    "logo",
+    "hero-image",
+    "icon"
+  ],
+  "platform": "web",
+  "image": "1730134107821.jpg",
+  "date": "2024-10-28T16:48:37.801Z"
+}
