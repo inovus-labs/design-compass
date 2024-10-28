@@ -1,0 +1,29 @@
+{
+  "name": "Home",
+  "user_flow": [
+    "liking-upvoting",
+    "following-subscribing",
+    "leaving",
+    "reviewing-rating",
+    "searching-finding",
+    "saving-to-collection"
+  ],
+  "screens": [
+    "social-feed",
+    "news-feed",
+    "browse-discover",
+    "search"
+  ],
+  "ui_elements": [
+    "button",
+    "card",
+    "search-bar",
+    "avatar",
+    "logo",
+    "icon",
+    "thumbnail"
+  ],
+  "platform": "web",
+  "image": "1730130407694.jpg",
+  "date": "2024-10-28T15:47:03.849Z"
+}
