@@ -1,0 +1,27 @@
+{
+  "name": "signup",
+  "user_flow": [
+    "onboarding",
+    "creating-account",
+    "setting-up",
+    "switching-account",
+    "logging-in",
+    "registering"
+  ],
+  "screens": [
+    "welcome-get-started",
+    "signup",
+    "verification",
+    "account-setup",
+    "add-create"
+  ],
+  "ui_elements": [
+    "button",
+    "list",
+    "full-screen-overlay",
+    "icon"
+  ],
+  "platform": "web",
+  "image": "1730131694095.jpg",
+  "date": "2024-10-28T16:39:49.869Z"
+}
