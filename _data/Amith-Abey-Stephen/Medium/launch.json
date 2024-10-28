@@ -1,0 +1,21 @@
+{
+  "name": "launch",
+  "user_flow": [
+    "onboarding",
+    "joining-accepting",
+    "registering"
+  ],
+  "screens": [
+    "launch-screen",
+    "welcome-get-started",
+    "add-create"
+  ],
+  "ui_elements": [
+    "button",
+    "top-bar-navigation-bar",
+    "logo"
+  ],
+  "platform": "web",
+  "image": "1730129128294.jpg",
+  "date": "2024-10-28T15:43:41.867Z"
+}
