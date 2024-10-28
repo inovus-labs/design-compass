@@ -1,0 +1,36 @@
+{
+  "name": "Home ",
+  "user_flow": [
+    "onboarding",
+    "browsing-tutorial",
+    "adding-to-cart-bag",
+    "saving-to-collection",
+    "filtering-sorting",
+    "selecting-choosing"
+  ],
+  "screens": [
+    "welcome-get-started",
+    "pricing",
+    "social-feed"
+  ],
+  "ui_elements": [
+    "button",
+    "floating-action-button",
+    "tab-segmented-control",
+    "text-field",
+    "search-bar",
+    "slider",
+    "page-control",
+    "sidebar-navigation-rail",
+    "carousel",
+    "list",
+    "divider-separator",
+    "icon",
+    "logo",
+    "thumbnail",
+    "photo"
+  ],
+  "platform": "web",
+  "image": "1730119644811.jpg",
+  "date": "2024-10-28T12:49:41.320Z"
+}
