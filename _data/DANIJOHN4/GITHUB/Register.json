@@ -1,0 +1,22 @@
+{
+  "name": "Register",
+  "user_flow": [
+    "creating-account",
+    "logging-in"
+  ],
+  "screens": [
+    "launch-screen",
+    "welcome-get-started",
+    "signup",
+    "account-setup",
+    "login"
+  ],
+  "ui_elements": [
+    "button",
+    "text-field",
+    "divider-separator"
+  ],
+  "platform": "web",
+  "image": "1730076502630.jpg",
+  "date": "2024-10-28T00:49:41.782Z"
+}
