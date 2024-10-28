@@ -1,0 +1,25 @@
+{
+  "name": "New Post",
+  "user_flow": [
+    "uploading-downloading",
+    "adding-creating",
+    "sharing"
+  ],
+  "screens": [
+    "share",
+    "upload-download",
+    "edit",
+    "add-create"
+  ],
+  "ui_elements": [
+    "button",
+    "dropdown-menu",
+    "avatar",
+    "logo",
+    "icon",
+    "text-field"
+  ],
+  "platform": "web",
+  "image": "1730131647030.jpg",
+  "date": "2024-10-28T16:07:33.312Z"
+}
