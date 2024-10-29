@@ -1,0 +1,53 @@
+{
+  "name": "homepage",
+  "user_flow": [
+    "commenting-replying",
+    "liking-upvoting",
+    "following-subscribing",
+    "requesting",
+    "searching-finding",
+    "watching-video",
+    "listening-to-audio",
+    "inviting-teammates-friends",
+    "sharing",
+    "joining-accepting"
+  ],
+  "screens": [
+    "launch-screen",
+    "welcome-get-started",
+    "activity-feed-notifications",
+    "social-feed",
+    "comments",
+    "groups-community",
+    "home",
+    "stories",
+    "like-upvote",
+    "follow-subscribe",
+    "pull-to-refresh"
+  ],
+  "ui_elements": [
+    "button",
+    "text-field",
+    "search-bar",
+    "icon",
+    "dropdown-menu",
+    "card",
+    "page-control",
+    "tile",
+    "divider-separator",
+    "sidebar-navigation-rail",
+    "top-bar-navigation-bar",
+    "tab-segmented-control",
+    "slider",
+    "list",
+    "badge-status-dot",
+    "avatar",
+    "logo",
+    "thumbnail",
+    "animation-video",
+    "photo"
+  ],
+  "platform": "web",
+  "image": "1730166488527.jpg",
+  "date": "2024-10-29T01:48:28.095Z"
+}
