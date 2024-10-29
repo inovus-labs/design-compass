@@ -1,38 +1,39 @@
 {
-  "name": "Profile",
-  "user_flow": [
-    "editing-profile",
-    "logging-tracking",
-    "uploading-downloading",
-    "editing-updating",
-    "adding-creating",
-    "referring-friends",
-    "inviting-teammates-friends",
-    "registering"
-  ],
-  "screens": [
-    "charts",
-    "progress",
-    "dashboard",
-    "timeline-history",
-    "upload-download",
-    "add-create",
-    "edit",
-    "followers-following",
-    "comments",
-    "social-feed",
-    "achievements-awards",
-    "activity-feed-notifications",
-    "my-account-profile"
-  ],
-  "ui_elements": [
-    "button",
-    "top-bar-navigation-bar",
-    "avatar",
-    "logo",
-    "icon"
-  ],
-  "platform": "web",
-  "image": "1730133007122.jpg",
-  "date": "2024-10-28T16:30:09.746Z"
-}
+    "name": "Profile",
+    "user_flow": [
+      "editing-profile",
+      "logging-tracking",
+      "uploading-downloading",
+      "editing-updating",
+      "adding-creating",
+      "referring-friends",
+      "inviting-teammates-friends",
+      "registering"
+    ],
+    "screens": [
+      "charts",
+      "progress",
+      "dashboard",
+      "timeline-history",
+      "upload-download",
+      "add-create",
+      "edit",
+      "followers-following",
+      "comments",
+      "social-feed",
+      "achievements-awards",
+      "activity-feed-notifications",
+      "my-account-profile"
+    ],
+    "ui_elements": [
+      "button",
+      "top-bar-navigation-bar",
+      "avatar",
+      "logo",
+      "icon"
+    ],
+    "platform": "web",
+    "image": "1730133007122.jpg",
+    "date": "2024-10-28T16:30:09.746Z"
+  }
+  
