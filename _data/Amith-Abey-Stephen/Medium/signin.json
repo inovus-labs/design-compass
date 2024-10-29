@@ -1,0 +1,32 @@
+{
+  "name": "login / signin",
+  "user_flow": [
+    "onboarding",
+    "creating-account",
+    "logging-in",
+    "switching-account",
+    "registering",
+    "verifying"
+  ],
+  "screens": [
+    "add-create",
+    "login",
+    "account-setup",
+    "verification",
+    "signup",
+    "walkthrough",
+    "privacy-policy",
+    "terms-conditons"
+  ],
+  "ui_elements": [
+    "button",
+    "full-screen-overlay",
+    "logo",
+    "icon",
+    "list",
+    "dialog"
+  ],
+  "platform": "web",
+  "image": "1730165061789.jpg",
+  "date": "2024-10-29T01:49:45.100Z"
+}
