@@ -1,0 +1,21 @@
+{
+  "name": "Docs",
+  "user_flow": [
+    "browsing-tutorial"
+  ],
+  "screens": [
+    "launch-screen",
+    "about",
+    "browse-discover"
+  ],
+  "ui_elements": [
+    "sidebar-navigation-rail",
+    "logo",
+    "search-bar",
+    "icon",
+    "button"
+  ],
+  "platform": "web",
+  "image": "1730390308550.jpg",
+  "date": "2024-10-31T15:58:56.594Z"
+}
