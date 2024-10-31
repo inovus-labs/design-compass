@@ -1,0 +1,20 @@
+{
+  "name": "Pricing",
+  "user_flow": [
+    "purchasing-ordering",
+    "subscribing-upgrading",
+    "listing"
+  ],
+  "screens": [
+    "pricing"
+  ],
+  "ui_elements": [
+    "card",
+    "button",
+    "logo",
+    "top-bar-navigation-bar"
+  ],
+  "platform": "web",
+  "image": "1730389947969.jpg",
+  "date": "2024-10-31T15:52:32.891Z"
+}
