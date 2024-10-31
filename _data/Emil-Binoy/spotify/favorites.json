@@ -1,5 +1,5 @@
 {
-  "name": "playlist",
+  "name": "favorites",
   "user_flow": [
     "adding-creating",
     "saving-to-collection",
