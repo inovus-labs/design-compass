@@ -1,21 +1,21 @@
 {
   "name": "playlist",
   "user_flow": [
-    "adding-creating",
-    "saving-to-collection",
+    "liking-upvoting",
     "listening-to-audio"
   ],
   "screens": [
+    "item-list",
+    "song-podcast-detail",
     "like-upvote",
-    "playlists",
     "audio-player"
   ],
   "ui_elements": [
-    "top-bar-navigation-bar",
+    "button",
     "list",
-    "icon"
+    "photo"
   ],
   "platform": "android",
-  "image": "1730354689203.jpg",
-  "date": "2024-10-31T06:04:34.436Z"
+  "image": "1730355768781.jpg",
+  "date": "2024-10-31T06:22:25.346Z"
 }
