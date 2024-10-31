@@ -1,0 +1,20 @@
+{
+  "name": "Blog",
+  "user_flow": [
+    "browsing-tutorial",
+    "publishing"
+  ],
+  "screens": [
+    "launch-screen",
+    "home",
+    "browse-discover"
+  ],
+  "ui_elements": [
+    "top-bar-navigation-bar",
+    "button",
+    "logo"
+  ],
+  "platform": "web",
+  "image": "1730391384834.jpg",
+  "date": "2024-10-31T16:16:45.927Z"
+}
