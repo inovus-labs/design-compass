@@ -1,0 +1,31 @@
+{
+  "name": "skool login page",
+  "user_flow": [
+    "logging-in",
+    "onboarding",
+    "resetting-password",
+    "switching-account",
+    "editing-updating",
+    "setting-up",
+    "verifying"
+  ],
+  "screens": [
+    "signup",
+    "welcome-get-started",
+    "launch-screen",
+    "my-account-profile",
+    "login",
+    "help-support",
+    "terms-conditons",
+    "privacy-policy"
+  ],
+  "ui_elements": [
+    "tab-segmented-control",
+    "top-bar-navigation-bar",
+    "logo",
+    "icon"
+  ],
+  "platform": "web",
+  "image": "1730350213412.jpg",
+  "date": "2024-10-31T04:50:53.794Z"
+}
