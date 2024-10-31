@@ -1,0 +1,21 @@
+{
+  "name": "favorites",
+  "user_flow": [
+    "adding-creating",
+    "saving-to-collection",
+    "listening-to-audio"
+  ],
+  "screens": [
+    "like-upvote",
+    "playlists",
+    "audio-player"
+  ],
+  "ui_elements": [
+    "top-bar-navigation-bar",
+    "list",
+    "icon"
+  ],
+  "platform": "android",
+  "image": "1730354689203.jpg",
+  "date": "2024-10-31T06:04:34.436Z"
+}
