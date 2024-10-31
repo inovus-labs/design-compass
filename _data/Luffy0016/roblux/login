@@ -1,0 +1,39 @@
+{
+  "name": "roblux",
+  "user_flow": [
+    "creating-account",
+    "onboarding",
+    "logging-in",
+    "resetting-password",
+    "switching-account",
+    "editing-updating",
+    "logging-tracking"
+  ],
+  "screens": [
+    "launch-screen",
+    "welcome-get-started",
+    "signup",
+    "verification",
+    "account-setup",
+    "my-account-profile",
+    "login",
+    "settings-preferences",
+    "permission",
+    "confirmation",
+    "acknowledgement-success",
+    "help-support",
+    "suggestion-similar-item",
+    "privacy-policy",
+    "terms-conditons",
+    "home"
+  ],
+  "ui_elements": [
+    "tab-segmented-control",
+    "top-bar-navigation-bar",
+    "logo",
+    "icon"
+  ],
+  "platform": "web",
+  "image": "1730352707760.jpg",
+  "date": "2024-10-31T05:31:58.062Z"
+}
