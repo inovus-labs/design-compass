@@ -1,0 +1,53 @@
+{
+  "name": "video",
+  "user_flow": [
+    "listing",
+    "sharing",
+    "commenting-replying",
+    "liking-upvoting",
+    "reporting",
+    "following-subscribing",
+    "joining-accepting",
+    "archiving"
+  ],
+  "screens": [
+    "pull-to-refresh",
+    "suggestion-similar-item",
+    "activity-feed-notifications",
+    "reviews-ratings",
+    "social-feed",
+    "followers-following",
+    "comments",
+    "chat-detail",
+    "groups-community",
+    "browse-discover",
+    "news-feed",
+    "event-detail",
+    "tvshow-movie-detail",
+    "add-create",
+    "upload-download",
+    "like-upvote",
+    "follow-subscribe",
+    "share",
+    "filter-sort",
+    "downloads-offline"
+  ],
+  "ui_elements": [
+    "icon",
+    "text-field",
+    "search-bar",
+    "slider",
+    "page-control",
+    "top-bar-navigation-bar",
+    "sidebar-navigation-rail",
+    "list",
+    "image-list-gallery",
+    "dropdown-menu",
+    "animation-video",
+    "photo",
+    "thumbnail"
+  ],
+  "platform": "web",
+  "image": "1730356759442.jpg",
+  "date": "2024-10-31T06:39:42.531Z"
+}
