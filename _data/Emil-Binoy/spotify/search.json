@@ -1,0 +1,25 @@
+{
+  "name": "search",
+  "user_flow": [
+    "searching-finding",
+    "filtering-sorting"
+  ],
+  "screens": [
+    "browse-discover",
+    "song-podcast-detail",
+    "select",
+    "filter-sort",
+    "search",
+    "playlists"
+  ],
+  "ui_elements": [
+    "search-bar",
+    "top-bar-navigation-bar",
+    "card",
+    "icon",
+    "photo"
+  ],
+  "platform": "android",
+  "image": "1730305876651.jpg",
+  "date": "2024-10-30T16:31:06.618Z"
+}
