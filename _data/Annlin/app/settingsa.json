@@ -1,0 +1,29 @@
+{
+  "name": "settingpage",
+  "user_flow": [
+    "creating-account",
+    "editing-profile",
+    "deleting-deactivating-account",
+    "switching-account",
+    "resetting-password",
+    "editing-updating",
+    "deleting-removing",
+    "uploading-downloading",
+    "setting-up"
+  ],
+  "screens": [
+    "account-setup",
+    "settings-preferences",
+    "help-support"
+  ],
+  "ui_elements": [
+    "button",
+    "checkbox",
+    "text-field",
+    "search-bar",
+    "top-bar-navigation-bar"
+  ],
+  "platform": "android",
+  "image": "1730293954425.jpg",
+  "date": "2024-10-30T13:14:23.728Z"
+}
