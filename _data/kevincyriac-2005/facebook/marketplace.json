@@ -1,0 +1,46 @@
+{
+  "name": "marketplace",
+  "user_flow": [
+    "browsing-tutorial",
+    "listing",
+    "canceling-order-refunding",
+    "booking-reserving",
+    "purchasing-ordering",
+    "chatting-sending-messages",
+    "searching-finding",
+    "connecting-linking",
+    "uploading-downloading",
+    "filtering-sorting"
+  ],
+  "screens": [
+    "pull-to-refresh",
+    "shop-storefront",
+    "checkout",
+    "pricing",
+    "activity-feed-notifications",
+    "location-address",
+    "filter-sort",
+    "search",
+    "share",
+    "save",
+    "select",
+    "flag-report"
+  ],
+  "ui_elements": [
+    "button",
+    "text-field",
+    "search-bar",
+    "page-control",
+    "icon",
+    "photo",
+    "dropdown-menu",
+    "toolbar",
+    "image-list-gallery",
+    "top-bar-navigation-bar",
+    "sidebar-navigation-rail"
+  ],
+  "platform": "web",
+  "image": "1730302455376.jpg",
+  "date": "2024-10-30T15:34:34.856Z"
+}
+
