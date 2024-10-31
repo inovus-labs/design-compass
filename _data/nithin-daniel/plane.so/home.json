@@ -1,0 +1,21 @@
+{
+  "name": "Home",
+  "user_flow": [
+    "scheduling",
+    "creating-account",
+    "logging-in"
+  ],
+  "screens": [
+    "launch-screen",
+    "welcome-get-started",
+    "home"
+  ],
+  "ui_elements": [
+    "button",
+    "top-bar-navigation-bar",
+    "logo"
+  ],
+  "platform": "web",
+  "image": "1730389265818.jpg",
+  "date": "2024-10-31T15:46:50.863Z"
+}
