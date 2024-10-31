@@ -1,0 +1,32 @@
+{
+  "name": "roblox profile page",
+  "user_flow": [
+    "logging-out",
+    "editing-profile",
+    "resetting-password",
+    "switching-account",
+    "deleting-deactivating-account",
+    "logging-in"
+  ],
+  "screens": [
+    "achievements-awards",
+    "activity-feed-notifications",
+    "leaderboard",
+    "save",
+    "search",
+    "dark-mode"
+  ],
+  "ui_elements": [
+    "loading-indicator",
+    "full-screen-overlay",
+    "avatar",
+    "logo",
+    "icon",
+    "animation-video",
+    "illustartion",
+    "photo"
+  ],
+  "platform": "web",
+  "image": "1730382303165.jpg",
+  "date": "2024-10-31T13:45:05.181Z"
+}
