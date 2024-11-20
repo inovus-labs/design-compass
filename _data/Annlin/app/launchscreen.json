@@ -1,0 +1,23 @@
+{
+  "name": "launchscreen",
+  "user_flow": [
+    "onboarding",
+    "editing-profile",
+    "adding-creating",
+    "starting-completing",
+    "publishing",
+    "switching-view"
+  ],
+  "screens": [
+    "launch-screen",
+    "welcome-get-started",
+    "signup",
+    "home"
+  ],
+  "ui_elements": [
+    "top-bar-navigation-bar"
+  ],
+  "platform": "android",
+  "image": "1730365502921.jpg",
+  "date": "2024-10-31T09:06:38.180Z"
+}
